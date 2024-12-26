@@ -1,5 +1,4 @@
 config.env
 venv/
-data/input/ga4_data.csv
-scripts/__pycache__/
+data/input/
 data/output/

@@ -64,7 +64,7 @@ def main():
     # load_dotenv("config.env")
 
     # 1. Load theme labels from /data/input/theme_labels.txt
-    theme_labels_file = "data/input/theme_labels.txt"
+    theme_labels_file = "theme_labels.txt"
     theme_labels = load_theme_labels_from_file(theme_labels_file)
 
     # 2. Type labels
