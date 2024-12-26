@@ -1,8 +1,8 @@
-# **User Behavioral Analysis Tool**
+# **Beha2Vec: User Behavioral Analysis Tool**
 
 **This README.md is generated with the help of ChatGPT and the OpenAI `gpt-4o` model, used to expedite the development process.**
 
-**Output data are sample from a first run, they will be overwritten in the next run.**
+**Output data are samples from a first run (only the lightest has pushed), they will be overwritten in the next run.**
 
 ## **Overview**
 This tool is designed to analyze user behavior by leveraging **transformer-based models**, which are typically employed in natural language processing (NLP). The project innovatively applies transformers to user behavioral analysis, enabling the creation of **user embeddings**—dense numerical representations of user actions.
