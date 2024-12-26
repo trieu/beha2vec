@@ -1,0 +1,4 @@
+config.env
+venv/
+data/input/ga4_data.csv
+scripts/__pycache__/
