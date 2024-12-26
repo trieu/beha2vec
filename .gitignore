@@ -2,9 +2,4 @@ config.env
 venv/
 data/input/ga4_data.csv
 scripts/__pycache__/
-data/output/clusted_users.csv
-data/output/model.pth
-data/output/preprocessing_config.json
-data/output/user_sequences.csv
-data/output/user_url_embeddings.csv
-data/output/user_combined_embeddings.csv
+data/output/
