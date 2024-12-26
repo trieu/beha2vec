@@ -1,5 +1,5 @@
 config.env
 venv/
-data/input/
-data/output/
+data/input/*
+data/output/*
 __pycache__
